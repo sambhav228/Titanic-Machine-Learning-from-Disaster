@@ -22,4 +22,4 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 <b>watch the video below to explore more details:</b>
 
-[!Video_link](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
+[Video_link-Click Here:](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
