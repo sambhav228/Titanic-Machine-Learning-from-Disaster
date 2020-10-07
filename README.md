@@ -26,6 +26,6 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 
 
-### MY NOTEBOOK SOLUTION: 
+### MY NOTEBOOK (SOLUTION): 
 
 **https://www.kaggle.com/sambhav228/titanic-best-submission-ac**
