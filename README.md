@@ -24,4 +24,8 @@ In this challenge, we ask you to build a predictive model that answers the quest
 
 [Video_link-Click Here:](https://www.youtube.com/watch?v=8yZMXCaFshs&feature=youtu.be)
 
-### MY NOTEBOOK SOLUTION: https://www.kaggle.com/sambhav228/titanic-best-submission-ac
+
+
+### MY NOTEBOOK SOLUTION: 
+
+**https://www.kaggle.com/sambhav228/titanic-best-submission-ac**
